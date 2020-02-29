@@ -1,0 +1,597 @@
+    1  cd /
+    2  ls -al
+    3  ls mnt
+    4  cd /mnt.c
+    5  cd /mnt/c
+    6  ls
+    7  cd users
+    8  ls
+    9  cd sujaydey
+   10  ls
+   11  cd desktop
+   12  cd ..
+   13  cd Downloads
+   14  ls
+   15  rm sp101214.exe
+   16  ls
+   17  sudo install node
+   18  sudo install nodejs
+   19  sudo apt install nodejs
+   20  cd
+   21  sudo apt install nodejs
+   22  cd /
+   23  shdfkhsdkfhs
+   24  ls
+   25  pwd
+   26  ls -al
+   27  cd sujaydey
+   28  cd \
+   29  cd /
+   30  ls
+   31  cd mnt
+   32  ls
+   33  cd c
+   34  cd users
+   35  cd sujaydey
+   36  cd src
+   37  ls
+   38  cd dowload
+   39  cd cli_project
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd dowloads
+   44  cd downloads
+   45  ls
+   46  cd src
+   47  ls
+   48  cd data
+   49  ls
+   50  node practice.js
+   51  ls
+   52  node practice.js
+   53  cddc
+   54  cd /
+   55  ls
+   56  ls mnt
+   57  cd c
+   58  cd mnt\c
+   59  mnt/c
+   60  cd mnt/c
+   61  cd user
+   62  ls
+   63  cd users
+   64  cd sujaydey
+   65  ls
+   66  cd
+   67  cd /
+   68  ls
+   69  sudo apt install nodejs
+   70  nodejs
+   71  sudo apt install nodejs
+   72  sudo apt install curl
+   73  curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
+   74  sudo apt-get install -y nodejs 
+   75  sudo apt-get install -y npm
+   76  node
+   77  gedit p1.c
+   78  code p.js
+   79  node p.js
+   80  code p.js
+   81  node p.js
+   82  ls
+   83  ls mnt
+   84  cd mnt/c
+   85  cd users
+   86  cd sujaydey
+   87  ls
+   88  cd downloads
+   89  mkdir src
+   90  cd sr
+   91  cd src
+   92  touch server.js output.js data.js
+   93  ls
+   94  rm -f .
+   95  rm -f *
+   96  ls
+   97  mkdir server output data
+   98  cd server
+   99  touch ipl.js index.js
+  100  cd ..
+  101  cd output
+  102  touch matchperyear.json
+  103  cd ..
+  104  ls
+  105  cd
+  106  cd /mnt/c/users/sujaydey/downloads/src
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd src
+  111  cd data
+  112  ls
+  113  mv ../src/ipl/* 
+  114  mv ../src/ipl/* .
+  115  mv ..\src\ipl\* .
+  116  mv ..\src\ipl\.
+  117  mv ..\src\ipl\. .
+  118  mv ..\src\ipl\. .\
+  119  mv ../src/ipl/. ./
+  120  mv ..\src\ipl\.  .\
+  121  mv /mnt/c/users/sujaydey/downlod/ipl/. /mnt/c/users/sujaydey/download/src/data
+  122  mv /mnt/c/users/sujaydey/downlod/ipl/* /mnt/c/users/sujaydey/download/src/data
+  123  cp -f  /mnt/c/users/sujaydey/downlod/ipl/* /mnt/c/users/sujaydey/download/src/data
+  124  cp -f  mnt/c/users/sujaydey/downlod/ipl/* /mnt/c/users/sujaydey/download/src/data
+  125  cp -f  mnt/c/users/sujaydey/downlod/ipl/*.txt /mnt/c/users/sujaydey/download/src/data
+  126  mv ..\..\ipl\*.txt .\
+  127  mv ..\..\ipl\*.txt ./
+  128  mv ../../ipl/*.txt ./
+  129  mv ../../ipl/*.txt ./data
+  130  mv ../../ipl/ ./
+  131  ls
+  132  cd ipl
+  133  ls
+  134  cd ..
+  135  mv ./ipl/* ./
+  136  ls
+  137  rm -f ipl
+  138  ls
+  139  cd ..
+  140  npm init -y
+  141  npm install csvtojson
+  142  ls
+  143  cd data
+  144  ls
+  145  csvtojson matches.json > matches.csv
+  146  csvtojson matches.csv > matches.json
+  147  cd ..
+  148  csvtojson matches.csv > matches.json
+  149  npm i -g csvtojson
+  150  csvtojson matches.csv > matches.json
+  151  sudo npm i -g csvtojson
+  152  csvtojson matches.csv > matches.json
+  153  ls
+  154  node matches.json
+  155  code matches.json
+  156  csvtojson ./data/matches.csv > matches.json
+  157  code matches.json
+  158  ls
+  159  rm -f matches.json
+  160  ls
+  161  csvtojson ./data/matches.csv > matches.json
+  162  code matches.json
+  163  cd data
+  164  ls
+  165  csvtojson matches.csv > matches.json
+  166  code matches.json
+  167  code matches.csv
+  168  csvtojson matches.csv > matches.json
+  169  code matches.json
+  170  code matches.csv
+  171  csvtojson matches.csv > matches.json
+  172  code matches.json
+  173  ls
+  174  cd ipl
+  175  ks
+  176  ls
+  177  rm -f rm
+  178  rm -f ipl
+  179  ls
+  180  cd
+  181  cd /mnt/c/users/sujaydey/downloads/src/data/ipl
+  182  ls
+  183  cd ..
+  184  ls
+  185  rm -f ipl
+  186  ls
+  187  code matches.json
+  188  code practice.js
+  189  cd
+  190  cd \
+  191  /
+  192  cd /
+  193  ls
+  194  cd mnt
+  195  ls
+  196  cd c
+  197  ls
+  198  cd
+  199  cd /
+  200  ls
+  201  cd etc
+  202  ls
+  203  notepad passwd
+  204  notepad++ passwd
+  205  code passwd
+  206  code login.defs
+  207  cd grub
+  208  cd \
+  209  cd /
+  210  ls
+  211  cd mnt
+  212  cd c
+  213  cd users
+  214  cd sujaydey
+  215  cd downloads
+  216  ls
+  217  mkdir hello
+  218  cd five one
+  219  cd hello
+  220  touch five one
+  221  ls
+  222  rm -f five one
+  223  ls
+  224  mkdir five one
+  225  ls
+  226  cd five
+  227  mkdir six
+  228  touch c.txt
+  229  rm c.txt
+  230  ls
+  231  cd six
+  232  touch c.txt
+  233  mkdir seven
+  234  cd seven
+  235  touch error.log'
+  236  ls
+  237  touch error.log
+  238  ls'
+  239  ls
+  240  cd ../../../one
+  241  touch a.txt b.txt
+  242  mkdir two
+  243  cd two
+  244  touch d.txt
+  245  mkdir three
+  246  cd three
+  247  touch e.txt
+  248  mkdir four
+  249  cd four
+  250  touch.log
+  251  touch access.log
+  252  rm cd ..
+  253  cd ..
+  254  ls
+  255  cd ..
+  256  rm -f ../five/six/seven/error.log
+  257  ls
+  258  cd ..
+  259  cd
+  260  ls
+  261  cd \
+  262  cd /
+  263  cd hello
+  264  ls
+  265  cd ./mnt/c/one
+  266  cd mnt/c/one
+  267  cd mnt/c/users/sujaydey/hello/one
+  268  cd /mnt/c/users/sujaydey/hello/one
+  269  cd /mnt/c/users/sujaydey/download/hello/one
+  270  cd mnt/c/users/sujaydey/download/hello/one
+  271  cd mnt
+  272  cd c
+  273  cd users
+  274  cd sujaydey
+  275  cd download
+  276  cd downloads
+  277  cd hello
+  278  cd one
+  279  cat "the quick rown fox jumps over the lazy" > a.txt
+  280  cat "the quick rown fox jumps over the lazy" > a.txtls
+  281  ls
+  282  cat "the quick rown fox jumps over the lazy" > a.txt
+  283  cat the quick rown fox jumps over the lazy > a.txt
+  284  gedit a.txt
+  285  notepad a.txt
+  286  notepad++ a.txt
+  287  vim a.txt
+  288  cd /
+  289  cd mnt
+  290  ls
+  291  cd c
+  292  cd users
+  293  ls
+  294  cd sujaydey
+  295  ls
+  296  cd download 
+  297  cd downloads 
+  298  ls
+  299  mkdir git_drill
+  300  cd git_drill
+  301  git init
+  302  ls
+  303  ls -al
+  304  rm -f .
+  305  rm -rf .
+  306  rm -rf *
+  307  ls
+  308  mkdir git_sample_project
+  309  cd git_sample_project
+  310  git init
+  311  ls -al
+  312  touch a.txt b.txt c.txt
+  313  ls
+  314  git status
+  315  vim a.txt 
+  316  cd /
+  317  node practice.js
+  318  vim a.txt 
+  319  node practice.js
+  320  cd server
+  321  node ipl.js
+  322  cd ..
+  323  cd data
+  324  node ipl.js
+  325  cd data
+  326  node ipl.js
+  327  node practice.js
+  328  cd ..
+  329  cd server
+  330  node ipl.js
+  331  cd ..
+  332  cd data
+  333  node ipl.js
+  334  node practice.js
+  335  node ipl.js
+  336  cd ..
+  337  cd server
+  338  node ipl.js
+  339  ls
+  340  cd /
+  341  cd mnt/c/users/sujaydey/downloads/src/data
+  342  ls
+  343  csvtojson deliveries.csv > deliveries.json
+  344  ls
+  345  nodepad++ delliveries.json
+  346  cd /
+  347  cd mnt
+  348  cd c
+  349  cd downloads
+  350  cd users
+  351  cd sujaydey
+  352  ls
+  353  cd downloads
+  354  cd git_sample_projects
+  355  cd git_sample_project
+  356  mkdir git_sample_project
+  357  cd git_sample_project
+  358  git init
+  359  ls
+  360  ls -al
+  361  touch a.txt b.txt c.txt
+  362  code a.txt
+  363  code b.txt
+  364  git status
+  365  git add a.txt b.txt
+  366  git status
+  367  git commit -m "a.txt and b.txt are added"
+  368  git status
+  369  git log
+  370  git --all --decorate --oneline --graph
+  371  git log --all --decorate --oneline --graph
+  372  git brach
+  373  git branch
+  374  git add c.txt
+  375  git status
+  376  git commit -m  "c.txt is added"
+  377  graph
+  378  git graph
+  379  git branch
+  380  sudo install graph
+  381  sudo  apt install graph
+  382  cd 
+  383  cd \
+  384  cd /
+  385  sudo apt install graph
+  386  sudo apt-get install graph
+  387  graph
+  388  sudo apt-get install plotutils
+  389  graph
+  390  cd mnt/c
+  391  cd users/sujaydey
+  392  cd downloads/
+  393  ls
+  394  cd git_sample_project
+  395  ls
+  396  ls -al
+  397  git status
+  398  git log
+  399  graph
+  400  git status
+  401  git branch
+  402  sudo git add origin master https://github.com/sujaykumardey/WebDesign 
+  403  sudo git push origin master https://github.com/sujaykumardey/WebDesign 
+  404  sudo git add origin master https://github.com/sujaykumardey/WebDesign 
+  405  sudo git remote add origin  https://github.com/sujaykumardey/WebDesign 
+  406  sudo git push origin
+  407  sudo git push -u  origin
+  408  sudo git push -u  origin master
+  409* 
+  410  sudo git remote add sujay   https://github.com/sujaydeymountblue/DemoProject.git
+  411  sudo git push -u  sujay master
+  412  cd ..
+  413  git_sample_project2
+  414  cd git_sample_project2
+  415  mkdir git_sample_project2
+  416  cd  git_sample_project2
+  417  sudo git clone https://github.com/sujaydeymountblue/DemoProject.git
+  418  ls
+  419  mv demoProject/* ./
+  420  ls
+  421  rm -rf DemoProject
+  422  ls
+  423  ls -al
+  424  git status
+  425  code d.txt
+  426  ls
+  427  git status
+  428  git init
+  429  ls
+  430  git status
+  431  git add .
+  432  ls
+  433  git status
+  434  git commit -m "all file must be include"
+  435  ls
+  436  git staus
+  437  git status
+  438  git brach
+  439  git grpah
+  440  git log
+  441  git push -u sujay master
+  442  git push -u origin master
+  443  git push -u sujay master
+  444  git branch
+  445  sudo git remote add sujay   https://github.com/sujaydeymountblue/DemoProject.git
+  446  git push -u sujay master
+  447  git push -f sujay master
+  448  cd ..
+  449  cd git_sample_project
+  450  ls
+  451  git checkout sujay
+  452  git checkout origin
+  453  git checkout origin master
+  454  sudo git checkout origin 
+  455  sudo git checkout origin master
+  456  sudo git checkout origin 
+  457  sudo git checkout master
+  458  sudo git pull
+  459  ls
+  460  code git_drill_part_1.txt
+  461  git add git_drill_part_1.txt
+  462  git commit -m "here you can check "
+  463  sudo git push -u origin
+  464  sudo git push -u sujay
+  465  git pull
+  466  sudo git push -u sujay
+  467  cd ..
+  468  mkdir git_exercise
+  469  cd git_exercise
+  470  git graph
+  471  sudo git graph
+  472  graph
+  473  git init
+  474  code one.py
+  475  git add one.py
+  476  git commit -m "initial massage"
+  477  git status
+  478  git graph
+  479  git log --all --oneline --decorate --graph
+  480  graph
+  481  code two.py
+  482  git add two.py
+  483  git commit -m "2nd time commit"
+  484  git status
+  485  git log
+  486  git log --all --oneline --decorate --graph
+  487  tree
+  488  sudo apt install tree
+  489  tree
+  490  graph
+  491  git status
+  492  git log
+  493  graph
+  494  git branch feature-2
+  495  git status
+  496  git log
+  497  git checkout feature-2
+  498  git status
+  499  graph
+  500  git log --all --oneline --decorate --graph
+  501  code two.py
+  502  git add two.py
+  503  git commit -m "adding file in two"
+  504  git checkout master
+  505  git status
+  506  tree
+  507  branch
+  508  git branch
+  509  git merge feature-2
+  510  git status
+  511  git log
+  512  git branch feature-3
+  513  code three
+  514  ls
+  515  code three.py
+  516  git status
+  517  git log
+  518  tree
+  519  git graph
+  520  code README.md
+  521  git add three.py README.md
+  522  git commit -m "adding file to repo"
+  523  git log
+  524  git checkout  df70e49374a7a7100364c27e5a487c63370476b7
+  525  git checkout "df70e49374a7a7100364c27e5a487c63370476b7"
+  526  git status
+  527  git log
+  528  git checkout a093e86aa0e2593efaf243a6758a4c0d1e26a76a
+  529  git status
+  530  git log
+  531  git checkout feature-3
+  532  git log
+  533  code three.py
+  534  code README.md
+  535  git add three.py README.md
+  536  git commit -m "adding to the file"
+  537  git log
+  538  git checkout master
+  539  git log
+  540  cd ..
+  541  ls
+  542  rm -f git_drill
+  543  rm -rf git_drill
+  544  rm -rf git_exercise
+  545  rm -rf git_sample_project
+  546  rm -rf git_sample_project2
+  547  git -rf hello
+  548  ls
+  549  mkdir git_sample_project
+  550  cd git_sample_project
+  551  git init
+  552  touch a.txt b.txt c.txt
+  553  code a.txt
+  554  code b.txt
+  555  git status
+  556  git add a.txt
+  557  git add b.txt
+  558  git commit -m "add a.txt and b.txt"
+  559  git status
+  560  git log
+  561  git add c.txt
+  562  git commit -m "adding c.txt"
+  563  git log
+  564  sudo git add remote origin master https://github.com/sujaydeymountblue/git_drill_2.git
+  565  sudo git add remote origin  https://github.com/sujaydeymountblue/git_drill_2.git
+  566  sudo git remote add origin  https://github.com/sujaydeymountblue/git_drill_2.git
+  567  sudo git push -u origin master
+  568  cd ..
+  569  mkdir git_sample_project_2
+  570  cd git_sample_project_2
+  571  sudo git clone  https://github.com/sujaydeymountblue/git_drill_2.git
+  572  ls
+  573  sudo git clone  https://github.com/sujaydeymountblue/git_drill_2.git/
+  574  sudo git clone  https://github.com/sujaydeymountblue/git_drill_2/
+  575  sudo git clone  https://github.com/sujaydeymountblue/git_drill_2.git/
+  576  cd git_drill_2
+  577  ls
+  578  code d.txt
+  579  git add d.txt
+  580  git commit -m "this is d.txt"
+  581  git push -u origin master
+  582  cd ..
+  583  ls
+  584  cd ..
+  585  ls
+  586  cd git_sample_project
+  587  git pull
+  588  ls
+  589  cd ..
+  590  ls
+  591  cd git_sample_project_2
+  592  ls
+  593  cd git_drill_2
+  594  ls
+  595  history
+  596  cp history > git_drill_part_1.txt
+  597  history > git_drill_part_1.txt
